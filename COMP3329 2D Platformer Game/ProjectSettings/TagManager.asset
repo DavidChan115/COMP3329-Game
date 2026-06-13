@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - keyholder
+  - Knight
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - PlayerHitbox
+  - EnemyHitbox
+  - GroundDetection
+  - Pickup
+  - Projectile
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3768025057
+    locked: 0
+  - name: NoCollision2
+    uniqueID: 3852226707
+    locked: 0
+  - name: NoCollision1
+    uniqueID: 3667330355
+    locked: 0
+  - name: Trap
+    uniqueID: 2874691931
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
