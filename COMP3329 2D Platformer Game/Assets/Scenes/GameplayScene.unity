@@ -278,7 +278,7 @@ Canvas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 56044115}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
@@ -1069,7 +1069,7 @@ Canvas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 445263421}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
@@ -55225,7 +55225,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1620246321547937892, guid: 3866485283e1c394b9c0dc778ca8dd9d, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2071646343526017154, guid: 3866485283e1c394b9c0dc778ca8dd9d, type: 3}
       propertyPath: m_AnchorMax.y
@@ -55764,6 +55764,9 @@ SceneRoots:
   - {fileID: 252884877}
   - {fileID: 556949995}
   - {fileID: 837168431}
+  - {fileID: 4754627239931602849}
+  - {fileID: 56044119}
+  - {fileID: 445263425}
   - {fileID: 1357625321074019879}
   - {fileID: 909429459}
   - {fileID: 8352342445672614881}
@@ -55774,9 +55777,6 @@ SceneRoots:
   - {fileID: 443473837}
   - {fileID: 1086926262}
   - {fileID: 1744535147}
-  - {fileID: 4754627239931602849}
-  - {fileID: 445263425}
   - {fileID: 614948232}
   - {fileID: 26916159}
-  - {fileID: 56044119}
   - {fileID: 1433400322}
